@@ -9,7 +9,7 @@ env:
   LOCATION: "eastus"
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b09d227d-d598-47fe-a98d-ecb8202ce9a5
-  WEBAPP-NAME: az400-crazy-man-10000012
+  WEBAPP-NAME: crazy-man-3008
 
 
 jobs:
